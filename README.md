@@ -1,7 +1,7 @@
 Hi, I’m @michaeltown-phd, climate scientist, data scientist, educator, and design thinker
 
 You can find more about me at:
-https://www.uib.no/en/persons/Michael.%28Mike%29.Town.%28he/him%29
+www.esr.org
 -or-
 www.ballarddatascience.com
 
