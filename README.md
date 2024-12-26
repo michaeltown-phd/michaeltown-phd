@@ -2,8 +2,6 @@ Hi, I’m @michaeltown-phd, climate scientist, data scientist, educator, and des
 
 You can find more about me at:
 www.esr.org
--or-
-www.ballarddatascience.com
 
 Contact me if you'd like to collaborate on something!
 <!---
